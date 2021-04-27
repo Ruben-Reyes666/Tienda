@@ -1,0 +1,103 @@
+body
+{
+    background: url(Fondo3.jpg);
+    background-position: center center;
+    background-attachment: fixed; 
+}
+h1
+{
+    font-size: 48pt;
+    background:#FFFF00;
+    border-style: inset;
+    color: orangered;
+    font-family: serif;
+    text-align: center;
+    border-color: #001171;
+}
+p
+{
+    font-weight: 300;
+    color:#0a0a0a;
+    font-size: 17pt;
+    text-align: center;
+}
+h3
+{
+    font-size: 19pt;
+}
+ul
+{
+    list-style:disc;
+}
+table, th, td
+{
+    background: url(Fondo.jpg);
+    color:#0a0a0a;
+    font-size: 17pt;
+    font-weight: 1000;
+    font-style: oblique;
+    height:auto;
+    width:auto;
+    border: 8pt groove gold;
+    border-collapse: collapse;
+}
+td:hover
+{
+ background:#FC5C00;
+}
+h2
+{
+    font-size: 26pt;
+    background:#F7DC6F;
+    border-style: dashed;
+    color: #FC0000;
+    font-family: serif;
+    text-align: center;
+}
+.Cosa
+{
+    font-style: oblique;
+    font-size: 28px;
+    
+}
+.Resaltar
+{
+    font-size: 18pt; 
+    background-color: darkgreen;
+}
+.izquierda
+{
+    float:right;
+    align-content: center
+}
+.izquierda2
+{
+    border:6pt double #000000;
+    background: #FCD16E;
+    margin: auto;
+    padding: inherit;
+    float:right;
+    align-content: center
+}
+.centro
+{
+    font-size: 20pt;
+    color:#FF7000;
+    background-color: (background);
+    height: auto;
+    width: 300pt;
+}
+p>gato, h3>gato
+{
+    color:darkred;
+    font-weight: 800;
+    font-style: italic;
+    font-family: inherit;
+}
+p>aa:hover
+{
+    font-size: 20pt;
+    text-decoration:underline;
+    color:#6D0000;
+    
+}

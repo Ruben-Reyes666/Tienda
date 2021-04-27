@@ -1,0 +1,23 @@
+table, th, td
+{
+    height:auto;
+    width:auto;
+    border: 3px groove gold;
+    border-collapse: collapse;
+}
+h1
+{
+    font-size: 48pt;
+    background:#FFFA94;
+    border-style: dotted;
+    color: #000000;
+    font-family: serif;
+    text-align: center;
+    border-color: #FF6800;
+}
+body
+{
+    background: url(Fondo.jpg);
+    background-position: center center;
+    background-attachment: fixed; 
+}
